@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\ProjectWindowsForms.exe.config
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\ProjectWindowsForms.exe
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\ProjectWindowsForms.pdb
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\obj\Debug\ProjectWindowsForms.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\obj\Debug\ProjectWindowsForms.Form1.resources
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\obj\Debug\ProjectWindowsForms.Properties.Resources.resources
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\obj\Debug\ProjectWindowsForms.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\obj\Debug\ProjectWindowsForms.exe
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\obj\Debug\ProjectWindowsForms.pdb
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\ProjectLibrary.dll
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\ProjectLibrary.pdb
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\ProjectLibrary.dll.config
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectWindowsForms\obj\Debug\ProjectWindowsForms.csproj.CopyComplete

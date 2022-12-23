@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\bin\Debug\ProjectLibrary.dll.config
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\bin\Debug\ProjectLibrary.dll
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\bin\Debug\ProjectLibrary.pdb
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\obj\Debug\ProjectLibrary.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\obj\Debug\ProjectLibrary.UserControl1.resources
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\obj\Debug\ProjectLibrary.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\obj\Debug\ProjectLibrary.csproj.CopyComplete
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\obj\Debug\ProjectLibrary.dll
+C:\Users\PC\source\repos\ProjectWindowsForms\ProjectLibrary\obj\Debug\ProjectLibrary.pdb
